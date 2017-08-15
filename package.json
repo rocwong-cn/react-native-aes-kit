@@ -1,6 +1,6 @@
 {
   "name": "react-native-aes-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AES-CBC-PKCS5Padding",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "PKCS5Padding"
   ],
   "author": "RocWang",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocwangv/react-native-aes-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rocwangv/react-native-aes-kit/issues"
+  },
+  "homepage": "https://github.com/rocwangv/react-native-aes-kit#readme"
 }
