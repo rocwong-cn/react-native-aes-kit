@@ -1,0 +1,16 @@
+{
+  "name": "react-native-aes-kit",
+  "version": "1.0.0",
+  "description": "AES-CBC-PKCS5Padding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AES",
+    "CBC",
+    "PKCS5Padding"
+  ],
+  "author": "RocWang",
+  "license": "MIT"
+}
