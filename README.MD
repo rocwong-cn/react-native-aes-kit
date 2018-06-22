@@ -31,7 +31,7 @@ react-native link react-native-aes-kit
 
 ## Usage 
 
-```
+```js
 import AesCrypto from 'react-native-aes-kit';
 
 const plaintxt = 'test';
